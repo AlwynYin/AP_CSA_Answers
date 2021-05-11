@@ -5,3 +5,9 @@
 - WordPair.java
 - WordPairList.java
 - WordPairListMain.java
+### Question3:
+- StringChecker.java
+- CodeWorkChecker.java
+- CodeWorkCheckerMain.java
+### Question4:
+- ArrayTester.java
