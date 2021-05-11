@@ -1,8 +1,10 @@
 # AP_CSA_Answers
 ## Answers of ap csa free response questions
-I'm currently working on ap test, and feel like uploading my answers here a good choice :)<br/>
-the answers here have all been tested if possible, and if not, it will be indicated.<br/>
-Alwyn Yin
+I'm currently working on AP test, and feel like uploading my answers here a good choice :)<br/>
+This is the answers for AP Computer Science A Free Response Questions from 2004 to 2019 written by me.<br/>
+the answers here have all been tested if possible, and if not, it will be indicated in the file.<br/>
+Alwyn Yin<br/>
+github:<br/>
 https://github.com/AlwynYin <br/>
 personal email:<br/>
 yin_alwyn@163.com<br/>
