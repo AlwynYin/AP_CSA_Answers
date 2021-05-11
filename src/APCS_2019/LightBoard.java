@@ -23,7 +23,7 @@ public class LightBoard {
                     litCount++;
             }
             if (litCount % 2 == 0)
-                return true;
+                return false;
         }
         // 2
         else {
