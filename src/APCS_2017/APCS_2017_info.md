@@ -6,3 +6,6 @@
 - StudyPractice.java
 - MultPractice.java
 - MultPracticeMain.java
+### Question3:
+- Phrase.java
+- PhraseMain.java
