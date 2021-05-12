@@ -7,6 +7,5 @@ public class MultPracticeMain {
             System.out.println(p1.getProblem());
             p1.nextProblem();
         }
-
     }
 }
