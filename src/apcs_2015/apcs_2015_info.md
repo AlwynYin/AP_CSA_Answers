@@ -5,3 +5,10 @@
 - HiddenWordMain.java
 ### question3:
 - SparseArrayEntry.java
+- SparseArray.java
+- SparseArrayMain.java
+### question4:
+- NumberGroup.java
+- Range.java
+- MultipleGroups.java
+- MultipleGroupsMain.java
