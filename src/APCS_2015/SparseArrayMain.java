@@ -1,4 +1,4 @@
-package apcs_2015;
+package APCS_2015;
 
 import java.util.ArrayList;
 
