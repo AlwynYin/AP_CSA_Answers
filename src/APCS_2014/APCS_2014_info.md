@@ -6,3 +6,10 @@
 - Student.java
 - SeatingChart.java
 - SeatingChartMain.java
+### Question4:
+- MenuItem.java
+- Drink.java
+- Trio.java
+- Salad.java
+- Sandwich.java
+- TrioMain.java
