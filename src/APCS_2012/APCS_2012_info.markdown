@@ -8,3 +8,6 @@
 - Horse.java is changed into a class for convenience
 - HorseBarn.java
 - HorseBarnMain.java
+### Question4:
+- GrayImage.java
+- GrayImageMain.java
